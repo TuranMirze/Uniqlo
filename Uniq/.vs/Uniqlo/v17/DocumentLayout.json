@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|c:\\users\\hp\\onedrive\\desktop\\uniq\\uniqlo\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|solutionrelative:uniqlo\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|c:\\users\\hp\\onedrive\\desktop\\uniq\\uniqlo\\views\\about\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|solutionrelative:uniqlo\\views\\about\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|c:\\users\\hp\\onedrive\\desktop\\uniq\\uniqlo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|solutionrelative:uniqlo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|c:\\users\\hp\\onedrive\\desktop\\uniq\\uniqlo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|solutionrelative:uniqlo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|c:\\users\\hp\\onedrive\\desktop\\uniq\\uniqlo\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|solutionrelative:uniqlo\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|c:\\users\\hp\\onedrive\\desktop\\uniq\\uniqlo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|solutionrelative:uniqlo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|c:\\users\\hp\\onedrive\\desktop\\uniq\\uniqlo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38A1A53-FDB3-4B1D-B3B4-0C98C1B75DE6}|Uniqlo\\Uniqlo.csproj|solutionrelative:uniqlo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Program.cs",
+              "RelativeDocumentMoniker": "Uniqlo\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Program.cs",
+              "RelativeToolTip": "Uniqlo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:20:28.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Views\\Contact\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo\\Views\\Contact\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Views\\Contact\\Contact.cshtml",
+              "RelativeToolTip": "Uniqlo\\Views\\Contact\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T08:17:33.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Views\\About\\About.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo\\Views\\About\\About.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Views\\About\\About.cshtml",
+              "RelativeToolTip": "Uniqlo\\Views\\About\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALkCAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T08:16:52.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Uniqlo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T08:15:34.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Uniqlo\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Uniqlo\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:14:39.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Uniqlo\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Uniqlo\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:14:20.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Uniqlo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Uniq\\Uniqlo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Uniqlo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:13:43.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
